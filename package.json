@@ -1,0 +1,16 @@
+{
+  "name": "csv-read-write-parse",
+  "version": "1.0.0",
+  "description": "CSV read and write with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MattCrook",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.11.1",
+    "csv-parser": "^2.3.3",
+    "csv-writer": "^1.6.0"
+  }
+}
